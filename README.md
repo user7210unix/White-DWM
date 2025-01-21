@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>☄️ <strong>𝗶𝟯𝗪𝗠 ◄► 𝗗𝗢𝗧𝗙𝗜𝗟𝗘𝗦</strong> ☄️</h1>
+  <h1>❄️ <strong>𝗗𝗪𝗠 ◄► 𝗗𝗢𝗧𝗙𝗜𝗟𝗘𝗦</strong> ❄️</h1>
 </div>
 
 
 <div align="center">
   <h2 style="font-size: 24px;">
-    <strong> <a href="https://i3wm.org/" style="text-decoration: none; color: inherit;">
-      <img src="https://i3wm.org/favicon.ico" alt="i3 Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
-      i3 Window Manager</a> 
+    <strong> <a href="https://dwm.suckless.org/" style="text-decoration: none; color: inherit;">
+      <img src="https://dwm.suckless.org/favicon.ico" alt="i3 Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
+      DWM Window Manager</a> 
     </strong>
   </h2>
 </div>
