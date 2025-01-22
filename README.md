@@ -49,6 +49,6 @@
 
 <div align="center">
   <a href="https://github.com/user7210unix/White-DWM/releases" target="_blank">
-    <img src="https://raw.githubusercontent.com/user7210unix/White-DWM/refs/heads/main/showcase/download.png" alt="Download Now" style="width: 350px;">
+    <img src="https://raw.githubusercontent.com/user7210unix/White-DWM/refs/heads/main/showcase/download1.png" alt="Download Now" style="width: 350px;">
   </a>
 </div>
