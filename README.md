@@ -7,6 +7,13 @@
     </strong>
   </h2>
 </div>
+<div align="center">
+
+<div align="center">
+  <a href="https://github.com/user7210unix/White-DWM/releases" target="_blank">
+    <img src="https://raw.githubusercontent.com/user7210unix/White-DWM/refs/heads/main/showcase/download.png" alt="Download Now">
+  </a>
+</div>
 
 <div align="center">
 
