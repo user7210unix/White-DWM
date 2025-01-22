@@ -1,21 +1,5 @@
 
 <div align="center">
-  <h2 style="font-size: 44px;">
-    <strong> <a href="https://dwm.suckless.org/" style="text-decoration: none; color: inherit;">
-      <img src="https://dwm.suckless.org/favicon.ico" alt="i3 Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
-      DWM Window Manager</a> 
-    </strong>
-  </h2>
-</div>
-<div align="center">
-
-<div align="center">
-  <a href="https://github.com/user7210unix/White-DWM/releases" target="_blank">
-    <img src="https://raw.githubusercontent.com/user7210unix/White-DWM/refs/heads/main/showcase/download.png" alt="Download Now" style="width: 150px;">
-  </a>
-</div>
-
-<div align="center">
 
 ```css
    ___    ____    ______  ____  ____  __     ____  ____
@@ -63,6 +47,11 @@
 - **$mod+e** – PCMANFM
 
 
+<div align="center">
+  <a href="https://github.com/user7210unix/White-DWM/releases" target="_blank">
+    <img src="https://raw.githubusercontent.com/user7210unix/White-DWM/refs/heads/main/showcase/download.png" alt="Download Now" style="width: 350px;">
+  </a>
+</div>
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
