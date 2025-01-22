@@ -52,17 +52,3 @@
     <img src="https://raw.githubusercontent.com/user7210unix/White-DWM/refs/heads/main/showcase/download.png" alt="Download Now" style="width: 350px;">
   </a>
 </div>
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-<div align="center">
-
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-
-
-<h3 align="center">
-    <a href="#----setup-----wiki-----gallery-----tip-jar"><tt>👆 Back to top</tt></a>
-</h3>
-
-
