@@ -8,7 +8,7 @@
 /____/  \____/   /_/   /_/   /___/ /____/ /___/ /___/  
                                                        
 ```
-### 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 🥳 paste the command in the Terminal
+### 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 🥳
 
 ```
 curl -fsSL https://raw.githubusercontent.com/user7210unix/White-DWM/main/install.sh | bash
