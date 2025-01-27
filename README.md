@@ -8,6 +8,11 @@
 /____/  \____/   /_/   /_/   /___/ /____/ /___/ /___/  
                                                        
 ```
+## Installation
+
+```
+curl -fsSL https://raw.githubusercontent.com/user7210unix/White-DWM/main/install.sh | bash
+```
 
 
 <h1>
@@ -47,9 +52,3 @@
 - **$mod+e** – PCMANFM
 
 <div align="center">
-
-## Installation
-
-```
-curl -fsSL https://raw.githubusercontent.com/user7210unix/White-DWM/main/install.sh | bash
-```
