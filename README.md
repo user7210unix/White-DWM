@@ -1,13 +1,13 @@
-
 <div align="center">
+  <h2 style="font-size: 54px;">
+    <strong>
+      <a href="https://suckless.org/" style="text-decoration: none; color: inherit;">
+        <img src="https://suckless.org/favicon.ico" alt="dwm Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
+        Dynamic Window Manager
+      </a>
+    </strong>
+  </h2>
 
-```css
-   ___    ____    ______  ____  ____  __     ____  ____
-  / _ \  / __ \  /_  __/ / __/ /  _/ / /    / __/ / __/
- / // / / /_/ /   / /   / _/  _/ /  / /__  / _/  _\ \  
-/____/  \____/   /_/   /_/   /___/ /____/ /___/ /___/  
-                                                       
-```
 ### 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 🥳
 
 ```
