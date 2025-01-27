@@ -50,7 +50,6 @@
 
 ## Installation
 
-<div align="center">
 ```
 curl -fsSL https://raw.githubusercontent.com/user7210unix/White-DWM/main/install.sh | bash
 ```
