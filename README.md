@@ -26,6 +26,8 @@ curl -fsSL https://raw.githubusercontent.com/user7210unix/White-DWM/main/install
 - **Terminal Emulator** :leaves: [ST](https://st.suckless.org/)
 - **Shell** :shell: [Fish](https://fishshell.com/)
 - **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom)
+- **Terminal with Graphics** :rocket: [ST](https://tools.suckless.org/st/)
+
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
