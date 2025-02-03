@@ -31,8 +31,8 @@ static const char *mutevol[]    = { "/usr/bin/amixerl", "set", "Master", "toggle
 
 static const char col_gray2[]       = "#ffffff"; // Unfocused Floating Window Border
 static const char col_yellow[]	    = "#888A91"; // Focused Floating Window Border
-static const char col_gray3[]       = "#000000"; // Inactive text color
-static const char col_gray4[]       = "#888A91"; // Active text color
+static const char col_gray3[]       = "#888A91"; // Inactive text color
+static const char col_gray4[]       = "#000000"; // Active text color
 static const char col_gray5[]       = "#888A91"; // Active window Background and bar Background (same as bar) 
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
