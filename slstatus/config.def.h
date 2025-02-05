@@ -62,6 +62,11 @@ static const char unknown_str[] = "n/a";
  * wifi_essid          WiFi ESSID                      interface name (wlan0)
  */
 static const struct arg args[] = {
-	/* function format          argument */
-	{ datetime, "%s",           "%F %T" },
-};
+    /* function format               argument */
+
+        {battery_perc, "   %s ", "BAT0"},
+	    {temp, "  %s󰔄 ", "/sys/class/thermal/thermal_zone3/temp"},
+	{run_command, "   %s ", "pamixer --get-volume"},
+    { datetime,             " %s",                "%H:%M  󰃭 %a %d/%m " },  // Added extra spaces before the date
+}; 
+
